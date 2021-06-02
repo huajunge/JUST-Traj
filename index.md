@@ -219,4 +219,4 @@ Lines from 7 to 9 take a *ID Temporal* query to extract trajectories from the da
 
 <center>Figure 3: Cleaned Trajectories of '1192408782'.</center>
 
-    
+  
