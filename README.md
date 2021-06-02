@@ -1,6 +1,6 @@
 ## DEMONSTRATION
 
-<video controls="controls" loop="loop" autoplay="autoplay" src="just_traj.mp4"></video>
+<video controls="controls" loop="loop" autoplay="autoplay" src="just-traj.mp4"></video>
 
 ## Login
 
